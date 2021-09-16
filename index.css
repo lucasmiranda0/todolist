@@ -1,0 +1,22 @@
+.center {
+    margin: auto;
+    width: 20%;
+    border: 3px inset gray;
+    padding: 100px;
+    border-radius: 25px;
+    text-align: center;
+    align-items: center;
+    font-family: lucida;
+}
+
+button {    
+    text-decoration: none;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-family: lucida;
+    color: black;
+}
