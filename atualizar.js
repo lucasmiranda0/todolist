@@ -10,15 +10,15 @@ botaoAtualizar.addEventListener("click", () => {
         localStorage.setItem("tarefa1", tarefa.value);
         localStorage.setItem("prazo1", prazo.value);    
         localStorage.setItem("tag1", tag.value);    
-    } else if(id.value == "2") {
+    } else if(id.value == 2) {
         localStorage.setItem("tarefa11", tarefa.value);
         localStorage.setItem("prazo11", prazo.value);    
         localStorage.setItem("tag11", tag.value);    
-    } else if(id.value == "3") {
+    } else if(id.value == 3) {
         localStorage.setItem("tarefa111", tarefa.value);
         localStorage.setItem("prazo111", prazo.value);    
         localStorage.setItem("tag111", tag.value);    
-    } else if(id.value == "4") {
+    } else if(id.value == 4) {
         localStorage.setItem("tarefa1111", tarefa.value);
         localStorage.setItem("prazo1111", prazo.value);    
         localStorage.setItem("tag1111", tag.value);    
